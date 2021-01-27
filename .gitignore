@@ -69,3 +69,4 @@ fastlane/report.xml
 
 # Bundler configuration
 .bundle
+*.xcarchive
